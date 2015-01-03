@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<plugin xmlns="http://sdstechnologies.com/jamcast/plugin/manifest/2.0">
+	<providerID>ba321b5b-0987-4282-914d-03b863247da8</providerID>
+	<name>Magic Transistor</name>
+	<description>
+		Magic Transistor is an exploratory collective of DJs, artists, and musicians based in New York, San Francisco, and London. We seek to shed light on exceptional artifacts of cultural significance, and are primarily focused on organizing and disseminating interesting and compelling music.
+	</description>
+	<publisherName>Jamcast, Inc.</publisherName>
+	<publisherUrl>http://getjamcast.com</publisherUrl>
+	<iconResourceName>Jamcast.Plugins.MagicTransistor.icon.png</iconResourceName>
+	<assemblyFileName>Jamcast.Plugins.MagicTransistor.dll</assemblyFileName>
+</plugin>
