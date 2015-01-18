@@ -30,5 +30,5 @@ using System.Reflection;
 [assembly: AssemblyCompany("Jamcast, Inc.")]
 [assembly: AssemblyProduct("Jamcast.Plugins.MagicTransistor")]
 [assembly: AssemblyCopyright("Copyright (c) 2015 ")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.1.0.0")]
+[assembly: AssemblyFileVersion("1.1.0.0")]
